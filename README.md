@@ -18,12 +18,15 @@ I'm a Computer Science graduate based in Pune, India, currently learning Data An
 ### 🛠️ Technical Skills
 
 **Currently Learning:**
-- Python (Core Python)
 
-**Upcoming Skills:**
-- SQL
-- Microsoft Excel
-- Power BI
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Learning Next:**
+
+![SQL](https://img.shields.io/badge/SQL-Upcoming-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Upcoming-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Upcoming-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  
 
 ### 📂 Projects
 
