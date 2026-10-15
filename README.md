@@ -43,6 +43,11 @@ A collection of Python programs and practice exercises completed during my learn
 - [LinkedIn](https://www.linkedin.com/in/tejas-kasav-198430322/)
 - [GitHub](https://github.com/tejask1119)
 
+
+### 📊 My GitHub Stats
+
+![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejask1119&show_icons=true&theme=tokyonight)
+  
 ---
 
 ⭐ Always learning, practicing and improving my skills!
